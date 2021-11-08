@@ -14,8 +14,9 @@ AWS:
 >https://aws.amazon.com/blogs/quantum-computing/generating-quantum-randomness-with-amazon-braket/
 
 Middleware:
-1. AWS CLI called from Python code? Would run circuit via Lambda function
-2. Include toggle flag in code, default simulated
+1. AWS CLI called from Python code (configure def account)
+2. Invokes circuit (jupyter notebook) via Lambda function
+3. Include toggle flag in code, default simulated
 
 >https://medium.com/appsmills/executing-jupyter-notebooks-in-lambda-665b5fac1c42
 
