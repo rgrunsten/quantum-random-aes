@@ -12,6 +12,7 @@ AWS:
 1. Quantum circuit: simulated and non-simulated runs
 
 >https://aws.amazon.com/blogs/quantum-computing/generating-quantum-randomness-with-amazon-braket/
+>https://github.com/aws/amazon-braket-examples/blob/main/examples/advanced_circuits_algorithms/Randomness/Randomness_Generation.ipynb
 
 Middleware:
 1. AWS CLI called from Python code (configure def account)
